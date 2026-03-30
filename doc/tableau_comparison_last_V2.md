@@ -1,0 +1,29 @@
+| Labels                                  |   Product Class |   conv1D |   DNN simple |   Xception |   Inception V3 |   Conv1D, DNN, Xception |   Conv1D, DNN, InceptionV3 | Best Combination         |
+|-----------------------------------------|-----------------|----------|--------------|------------|----------------|-------------------------|----------------------------|--------------------------|
+| adult books                             |            8421 |     0.47 |         0.49 |       0.62 |           0.60  |                    0.66 |                       0.66 | Conv1D, DNN, Xception    |
+| imported video games                    |            6021 |     0.68 |         0.68 |       0.63 |           0.65 |                    0.79 |                       0.80  | Conv1D, DNN, InceptionV3 |
+| video games accessories                 |             200 |     0.79 |         0.81 |       0.47 |           0.41 |                    0.81 |                       0.82 | Conv1D, DNN, InceptionV3 |
+| Games and consoles                      |            8733 |     0.86 |         0.89 |       0.76 |           0.76 |                    0.87 |                       0.91 | Conv1D, DNN, InceptionV3 |
+| figurines and Toy Pop                   |            1389 |     0.77 |         0.79 |       0.68 |           0.65 |                    0.82 |                       0.80  | Conv1D, DNN, Xception    |
+| Playing cards                           |            2940 |     0.86 |         0.88 |       0.92 |           0.92 |                    0.96 |                       0.96 | Conv1D, DNN, Xception    |
+| figurines, masks and role-playing games |            7923 |     0.64 |         0.58 |       0.40  |           0.41 |                    0.59 |                       0.60  | Conv1D, DNN, InceptionV3 |
+| toys for children                       |            3718 |     0.72 |         0.73 |       0.47 |           0.46 |                    0.74 |                       0.73 | Conv1D, DNN, Xception    |
+| board games                             |             777 |     0.56 |         0.60  |       0.34 |           0.32 |                    0.58 |                       0.59 | Conv1D, DNN, InceptionV3 |
+| Remote controlled models                |             666 |     0.94 |         0.94 |       0.75 |           0.72 |                    0.93 |                       0.93 | Conv1D, DNN, Xception    |
+| Accessories children                    |            1029 |     0.94 |         0.92 |       0.61 |           0.62 |                    0.90  |                       0.92 | Conv1D, DNN, InceptionV3 |
+| toys, outdoor playing, clothes          |             300 |     0.78 |         0.80  |       0.49 |           0.47 |                    0.78 |                       0.81 | Conv1D, DNN, InceptionV3 |
+| Early childhood                         |            1190 |     0.79 |         0.79 |       0.52 |           0.51 |                    0.81 |                       0.80  | Conv1D, DNN, Xception    |
+| Interior furniture and bedding          |            9012 |     0.83 |         0.83 |       0.58 |           0.57 |                    0.83 |                       0.84 | Conv1D, DNN, InceptionV3 |
+| Interior accessories                    |            2203 |     0.92 |         0.90  |       0.83 |           0.76 |                    0.91 |                       0.89 | Conv1D, DNN, Xception    |
+| Food                                    |            3344 |     0.82 |         0.82 |       0.70  |           0.50  |                    0.85 |                       0.79 | Conv1D, DNN, Xception    |
+| Decoration interior                     |            8523 |     0.81 |         0.80  |       0.55 |           0.51 |                    0.80  |                       0.80  | Conv1D, DNN, Xception    |
+| Supplies for domestic animals           |            6604 |     0.79 |         0.82 |       0.39 |           0.41 |                    0.79 |                       0.79 | Conv1D, DNN, Xception    |
+| magazines                               |             914 |     0.68 |         0.72 |       0.77 |           0.75 |                    0.83 |                       0.82 | Conv1D, DNN, Xception    |
+| children books and magazines            |            7331 |     0.73 |         0.76 |       0.69 |           0.69 |                    0.83 |                       0.82 | Conv1D, DNN, Xception    |
+| games                                   |            3330 |     0.79 |         0.80  |       0.65 |           0.61 |                    0.81 |                       0.83 | Conv1D, DNN, InceptionV3 |
+| stationery                              |            1177 |     0.91 |         0.92 |       0.72 |           0.69 |                    0.92 |                       0.92 | Conv1D, DNN, Xception    |
+| furniture kitchen and garden            |            5620 |     0.75 |         0.75 |       0.46 |           0.46 |                    0.75 |                       0.76 | Conv1D, DNN, InceptionV3 |
+| Piscine spa                             |            4561 |     0.97 |         0.97 |       0.84 |           0.84 |                    0.95 |                       0.96 | Conv1D, DNN, InceptionV3 |
+| gardening and DIY                       |            9111 |     0.78 |         0.79 |       0.48 |           0.47 |                    0.79 |                       0.80  | Conv1D, DNN, InceptionV3 |
+| Books                                   |             400 |     0.65 |         0.71 |       0.79 |           0.78 |                    0.89 |                       0.88 | Conv1D, DNN, Xception    |
+| Online distribution of video games      |            7155 |     0.99 |         1    |       0.70  |           0.66 |                    0.93 |                       0.93 | Conv1D, DNN, Xception    |
