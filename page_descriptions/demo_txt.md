@@ -13,7 +13,7 @@ Predictions can be made using a model based on Text data, Image data, or both co
 ---Insersetion---
 ##### Choice of Model(s)
 ---Insersetion---
-##### Choice Source of Data 
+##### Provide Input Data
 ---Insersetion---
 ---Insersetion---
 ---Insersetion---
