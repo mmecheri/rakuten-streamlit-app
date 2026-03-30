@@ -9,7 +9,7 @@ Predictions can be made using a model based on Text data, Image data, or both co
 	- Conv1D, Simple DNN and InceptionV3
 
 
-##### Choice of Classification Type
+##### Choose Model Type
 ---Insersetion---
 ##### Choice of Model(s)
 ---Insersetion---
